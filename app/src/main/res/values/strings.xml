@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Constrait Layout Lab</string>
+    <string name="email_hint">Ingrese su email</string>
+    <string name="asunto_hint">Message</string>
+    <string name="boton_1">Go to exercise 2</string>
+    <string name="boton_2">Go to exercise 3</string>
+    <string name="boton_3">Go to exercise 4</string>
+    <string name="boton_4">Back to exercise 1</string>
+    <string name="useless">Don\'t touch me</string>
+</resources>
